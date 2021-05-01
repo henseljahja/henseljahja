@@ -13,6 +13,8 @@ Also you can find me at:
 
 [@kaggle](https://kaggle.com/henseljahja)
 
+[@leetcode](https://leetcode.com/henseljahja)
+
 <br> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=henseljahja&theme=shades-of-purple&show_icons=true&count_private=true)
