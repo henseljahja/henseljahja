@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henseljahja&label=Profile%20views&color=0e75b6&style=flat" alt="henseljahja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henseljahja" alt="henseljahja" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henseljahja&theme=onedark" alt="henseljahja" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot, React**
 
